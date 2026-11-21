@@ -1,0 +1,26 @@
+@font-face {
+  font-family: "Zilla Slab";
+  src: url("./fonts/zilla-slab.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Rethink Sans";
+  src: url("./fonts/rethink-sans.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 400 800;
+  font-display: swap;
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+@font-face {
+  font-family: "Noto Serif TC";
+  src: url("./fonts/noto-serif-tc.woff2") format("woff2");
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  unicode-range: U+3001, U+3002, U+4E00, U+4E0A, U+4E2D, U+4E5F, U+4F38, U+4F4D, U+4F4F, U+5074, U+5148, U+5165, U+5169, U+51A0, U+5206, U+5207, U+5230, U+524D, U+52E2, U+5340, U+539F, U+53E3, U+5426, U+55AE, U+5716, U+58C1, U+5916, U+5B54, U+5C01, U+5D74, U+5EF6, U+5F15, U+5F8C, U+5F9E, U+5FEB, U+6210, U+627E, U+628A, U+6388, U+6587, U+67E5, U+690D, U+69FD, U+6B0A, U+6C34, U+6CBF, U+6D41, U+7247, U+7248, U+7259, U+72C0, U+737B, U+7684, U+770B, U+77E2, U+77ED, U+78BA, U+78BC, U+7A7F, U+7A97, U+7AC7, U+7B46, U+7BA1, U+7BC7, U+7D44, U+7DDA, U+7F6E, U+7FD2, U+80FD, U+8139, U+816B, U+819C, U+81F3, U+8207, U+8840, U+8853, U+8907, U+89E3, U+8A18, U+8A8D, U+8AB2, U+8B80, U+8D70, U+8DEF, U+8EF8, U+901F, U+9053, U+9694, U+9762, U+984E, U+9AD4, U+9F52;
+}

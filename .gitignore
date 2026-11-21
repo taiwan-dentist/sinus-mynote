@@ -1,0 +1,11 @@
+# 課程原始 PDF、取圖與本機驗證資料
+*.[pP][dD][fF]
+/.taste-skill/
+/shots/
+
+# Windows、macOS 與編輯器暫存
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.tmp
+*.swp
